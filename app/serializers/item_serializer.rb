@@ -1,5 +1,5 @@
 class ItemSerializer < ActiveModel::Serializer
-  attributes :id, :title, :brand, :image, :size, :price#, :description
+  attributes :id, :title, :brand, :image, :size, :price, :description
   belongs_to :category
 end
 
