@@ -7,4 +7,6 @@ Rails.application.routes.draw do
      resources :categories, only: [:index, :update]
    end
  end
+ # get 'profiles/charities', :to => 'profiles#charities_index'
+  get 'images/:id', :to => 'images#show'    
 end
