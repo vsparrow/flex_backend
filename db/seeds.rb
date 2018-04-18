@@ -291,3 +291,78 @@ Item.create(
 
 Really sad to let this go, but it doesn't quite fit me anymore. The leather is perfectly worn and it looks great. Got compliments all the time when I would wear it.",
   category: cat1)
+Item.create(
+  title: " Air Jordan 1 x Off-White ",
+  brand: " Nike ",
+  image: "http://127.0.0.1:3000/images/nikeOW1.jpg",
+  size: "10",
+  price: 1050,
+  description: "Nike collab with Virgil Abloh, part of the 10 collection",
+  category: cat4)
+Item.create(
+  title: "Gucci Ace Bee",
+  brand: " Gucci ",
+  image: "http://127.0.0.1:3000/images/guccibee.jpg",
+  size: "7",
+  price: 405,
+  description: "Gucci Trainers, Classic look with Bee Embroidery",
+  category: cat4)
+Item.create(
+  title: "Balenciaga Triple S",
+  brand: " Balenciaga ",
+  image: "http://127.0.0.1:3000/images/BalenciagaSSS.jpg",
+  size: "11",
+  price: 920,
+  description: "Balenciaga Trainers with a triple heel look. Defining streetwear",
+  category: cat4)
+Item.create(
+  title: "Gucci Fur Tiger Embroidery Slippers",
+  brand: " Gucci ",
+  image: "http://127.0.0.1:3000/images/GuccifurT.jpg",
+  size: "6.5",
+  price: 795,
+  description: "Gucci slippers, with tiger embrodiery and fur lining. If you want flair, look no further, you will make all the heads turn.",
+  category: cat4)
+Item.create(
+  title: "Undercover Arts & Crafts Jeans",
+  brand: " Undercover ",
+  image: "http://127.0.0.1:3000/images/UndercoverR.jpg",
+  size: "29",
+  price: 1500,
+  description: "Jeans... Brand New... Yes thats whats there supposed to look like.",
+  category: cat3)
+Item.create(
+  title: "Petite Standard",
+  brand: " A.P.C ",
+  image: "http://127.0.0.1:3000/images/APC1.jpg",
+  size: "31",
+  price: 110,
+  description: " Classic Jeans, can't go wrong",
+  category: cat3)
+Item.create(
+  title: "Acne Stay Cash",
+  brand: " Acne ",
+  image: "http://127.0.0.1:3000/images/AcneCash.jpg",
+  size: "31",
+  price: 180,
+  description: " Extremely popular black jeans, pairs with virtually any outfit.",
+  category: cat3)
+# Item.create(
+#   title: " cat windbreaker ",
+#   brand: " Gucci ",
+#   image: "http://127.0.0.1:3000/images/guccicat.jpg",
+#   size: "S",
+#   price: 972,
+#   description: "I take good care of my clothes no stain or hole.
+# 9/10 condition",
+#   category: cat1)
+# Item.create(
+#   title: " Acne Studios Cracked Leather Jacket ",
+#   brand: " Acne Studios ",
+#   image: "http://127.0.0.1:3000/images/acne.jpg",
+#   size: " US M / EU 48-50 / 2 ",
+#   price: 355,
+#   description: "Acne Studios cracked leather jacket in size 48.
+#
+# Really sad to let this go, but it doesn't quite fit me anymore. The leather is perfectly worn and it looks great. Got compliments all the time when I would wear it.",
+#   category: cat1)
