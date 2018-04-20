@@ -124,8 +124,8 @@ BNWT!
 Buy with confidence from a user with 500 5/5 feedback ;-)",
   category: cat2)
 Item.create(
-  title: " Off-White ",
-  brand: " Diagonal Arrows All Over Hoodie ",
+  title: " Diagonal Arrows All Over Hoodie ",
+  brand: " Off-White ",
   image: "http://127.0.0.1:3000/images/offwhitesweat.jpg",
   size: "M",
   price: 517,
@@ -166,8 +166,8 @@ Size XL ( Fits m-l)
 SS18 new",
   category: cat2)
 Item.create(
-  title: " Gucci ",
-  brand: " Angry Cat Applique Black Cotton Sweatshirt ",
+  title: " Angry Cat Applique Black Cotton Sweatshirt ",
+  brand: " Gucci ",
   image: "http://127.0.0.1:3000/images/guccicat2.jpg",
   size: "S",
   price: 1200,
@@ -228,8 +228,8 @@ mastermind prologue i, classic gray hoodie with distressed treatment, printed lo
 measures: 47 shoulders, 56 cm chest, 70 cm lengt",
   category: cat2)
 Item.create(
-  title: " Balenciaga ",
-  brand: " Balenciaga Translucent Beige Safari Jacket ",
+  title: " Balenciaga Translucent Beige Safari Jacket",
+  brand: " Balenciaga  ",
   image: "http://127.0.0.1:3000/images/Balenciaga.jpg",
   size: "S",
   price: 412,
